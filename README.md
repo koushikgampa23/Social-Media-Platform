@@ -1,4 +1,4 @@
-﻿# full-stack-project-lighweight
+﻿# full-stack Social Media Platform
 Steps to run this project
 1)Download the Zip file
 2)Unzip the file
